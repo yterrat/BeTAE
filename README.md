@@ -20,4 +20,3 @@ If you read the last word in details, you know that you need to install third pa
   M5nr database
   
   and assembly tools like MegaHit, SPAdes, ...
-  
